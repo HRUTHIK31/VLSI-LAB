@@ -1,0 +1,22 @@
+| units: 100 tech: scmos format: MIT
+p a_n39_9# vdd y 3 7 21 9
+p b a_n39_9# vdd 3 7 -25 9
+p a vdd a_n39_9# 3 7 -42 9
+n a_n39_9# gnd y 3 7 21 -24
+n a gnd a_n39_n24# 3 7 -42 -24
+n b a_n39_n24# a_n39_9# 3 7 -25 -24
+R a_n39_n24# 53
+C gnd GND 26.51
+R gnd 1257
+C y GND 3.38
+R y 234
+C a_n39_9# GND 34.71
+R a_n39_9# 585
+C b GND 8.72
+R b 366
+C a GND 8.72
+R a 366
+C vdd GND 24.16
+R vdd 1134
+R w_n1_7# 10479
+R w_n52_7# 9568
