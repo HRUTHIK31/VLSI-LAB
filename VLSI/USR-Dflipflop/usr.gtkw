@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Thu Sep  3 11:16:34 2020
+[*]
+[dumpfile] "/home/hruthik/Desktop/VLSI/LAB4/usr.vcd"
+[dumpfile_mtime] "Thu Sep  3 11:12:38 2020"
+[dumpfile_size] 4286
+[savefile] "/home/hruthik/Desktop/VLSI/LAB4/usr.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@22
+top.I[7:0]
+top.OUT[7:0]
+@28
+top.clk
+top.leftshift
+top.reset
+top.rightshift
+top.s[1:0]
+@22
+top.temp[7:0]
+@23
+top.temp[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
