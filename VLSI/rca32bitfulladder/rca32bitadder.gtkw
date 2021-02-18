@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Thu Aug 20 14:00:07 2020
+[*]
+[dumpfile] "/home/hruthik/Desktop/VLSI/rca32bit.vcd"
+[dumpfile_mtime] "Thu Aug 20 13:55:22 2020"
+[dumpfile_size] 14177
+[savefile] "/home/hruthik/Desktop/VLSI/rca32bitadder.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-3.024624 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@22
+top.a[31:0]
+top.b[31:0]
+@28
+top.ca
+top.cin
+@23
+top.sum[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
