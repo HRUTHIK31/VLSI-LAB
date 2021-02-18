@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/hruthik/Desktop/VLSI/sixteenarray/starrmul.xst" -ofn "/home/hruthik/Desktop/VLSI/sixteenarray/starrmul.syr" 

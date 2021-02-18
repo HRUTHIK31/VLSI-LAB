@@ -1,0 +1,21 @@
+Running: /opt/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/hruthik/Desktop/VLSI/sixteenarray/starrmul_isim_beh.exe -prj /home/hruthik/Desktop/VLSI/sixteenarray/starrmul_beh.prj work.starrmul work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/hruthik/Desktop/VLSI/sixteenarray/starrmul.v" into library work
+Analyzing Verilog file "/opt/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 87116 KB
+Fuse CPU Usage: 1130 ms
+Compiling module fulladder
+Compiling module starrmul
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 Verilog Units
+Built simulation executable /home/hruthik/Desktop/VLSI/sixteenarray/starrmul_isim_beh.exe
+Fuse Memory Usage: 1227172 KB
+Fuse CPU Usage: 1620 ms
+GCC CPU Usage: 8850 ms
