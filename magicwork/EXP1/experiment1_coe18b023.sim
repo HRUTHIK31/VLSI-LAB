@@ -1,0 +1,10 @@
+| units: 1 tech: scmos format: MIT
+n input gnd output 200 600 800 -1400
+p input vdd output 200 600 800 1700
+C gnd GND 5.26
+R gnd 625
+C output GND 5.26
+R output 202
+C input GND 8.00
+R input 488
+R vdd 5067
