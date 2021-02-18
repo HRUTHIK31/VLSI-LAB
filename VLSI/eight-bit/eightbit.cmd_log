@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/home/hruthik/Desktop/VLSI/eight-bit/eightbit.xst" -ofn "/home/hruthik/Desktop/VLSI/eight-bit/eightbit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 eightbit.ngc eightbit.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o eightbit_map.ncd eightbit.ngd eightbit.pcf 
+xst -intstyle ise -ifn "/home/hruthik/Desktop/VLSI/eight-bit/eightbit.xst" -ofn "/home/hruthik/Desktop/VLSI/eight-bit/eightbit.syr" 
+xst -intstyle ise -ifn "/home/hruthik/Desktop/VLSI/eight-bit/eightbit.xst" -ofn "/home/hruthik/Desktop/VLSI/eight-bit/eightbit.syr" 
+xst -intstyle ise -ifn "/home/hruthik/Desktop/VLSI/eight-bit/eightbit.xst" -ofn "/home/hruthik/Desktop/VLSI/eight-bit/eightbit.syr" 
