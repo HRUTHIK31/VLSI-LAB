@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/hruthik/Desktop/VLSI/block-ram/blk_ram_isim_beh.exe" -prj "/home/hruthik/Desktop/VLSI/block-ram/blk_ram_beh.prj" "work.blk_ram" "work.glbl" 

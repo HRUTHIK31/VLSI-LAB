@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/hruthik/Desktop/VLSI/block-ram/blk_ram.xst" -ofn "/home/hruthik/Desktop/VLSI/block-ram/blk_ram.syr" 
